@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <remove src="font-awesome/css/font-awesome.min.css"/>
+        <remove src="mage/calendar.css"/>
+        <remove src="css/print.css"/>
+
+        <css src="css/font.css"/>
+        <css src="css/bootstrap/bootstrap-grid.css"/>
+		<css src="css/animate.css"/>
+		<css src="css/type-10.css" order="100" />
+		<css src="css/custom.css" order="101" />
+		<css src="css/custom-inline.css" order="102" />
+    </head>
+</page>

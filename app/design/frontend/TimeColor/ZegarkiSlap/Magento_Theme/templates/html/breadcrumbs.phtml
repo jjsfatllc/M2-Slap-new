@@ -1,0 +1,39 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+?>
+<?php if ($crumbs && is_array($crumbs)) : ?>
+<?php $pozycja=1; ?>
+<div class="breadcrumbs">
+    <ul itemscope itemtype="http://schema.org/BreadcrumbList" class="items">
+        <?php foreach ($crumbs as $crumbName => $crumbInfo) : ?>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="item <?= $block->escapeHtmlAttr($crumbName) ?>">
+            <?php if ($crumbInfo['link']) : ?>
+                <a  href="<?= $block->escapeUrl($crumbInfo['link']) ?>"
+                    title="<?= $block->escapeHtmlAttr($crumbInfo['title']) ?>"
+                    itemprop="item">
+                        <?= $block->escapeHtml($crumbInfo['label']) ?>
+                        <meta itemprop="name" content="<?= $block->escapeHtmlAttr($crumbInfo['title']) ?>" />
+                </a>
+                <meta itemprop="position" content="<?php echo ($pozycja); ?>" />
+            <?php elseif ($crumbInfo['last']) : ?>
+                <strong>
+                    <a  href="<?= $block->escapeUrl($crumbInfo['link']) ?>"
+                        title="<?= $block->escapeHtmlAttr($crumbInfo['title']) ?>"
+                        itemprop="item">
+                            <?= $block->escapeHtml($crumbInfo['label']) ?>
+                            <meta itemprop="name" content="<?= $block->escapeHtmlAttr($crumbInfo['title']) ?>" />
+                    </a>                    
+                </strong>
+                <meta itemprop="position" content="<?php echo ($pozycja); ?>" />
+            <?php else : ?>
+                <?= $block->escapeHtml($crumbInfo['label']) ?>
+            <?php endif; ?>
+            </li>
+            <?php $pozycja++; ?>
+        <?php endforeach; ?>
+    </ul>
+</div>
+<?php endif; ?>

@@ -1,0 +1,12 @@
+<layout version="0.1.0">
+    <adminhtml_sales_order_shipment_new>
+        <reference name="shipment_packaging">
+            <action method="setTemplate"><template>inpost/packaging/popup.phtml</template></action>
+        </reference>
+    </adminhtml_sales_order_shipment_new>
+    <adminhtml_sales_order_shipment_view>
+        <reference name="shipment_packaging">
+            <action method="setTemplate"><template>inpost/packaging/popup.phtml</template></action>
+        </reference>
+    </adminhtml_sales_order_shipment_view>
+</layout>

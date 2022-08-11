@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.slapwatch.com/generator/pages/mods/sitemap_nb.xsl"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+  <url>
+       <loc>https://www.slapwatch.com/</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>1.0000</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/logo/stores/1/Time2SLAP_www.slapwatch.com_-_Greem_Apple_1.png</image:loc>
+         <image:caption>Slap Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/wysiwyg/slapwatch/slap_logo_mobile.png</image:loc>
+         <image:caption>Logo SLAP Watch</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/customize-your-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/r/a/radek_trochimiak_016.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sets.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/r/a/radek_trochimiak_016.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/f/r/freshmint.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/h/shadowgrey.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/u/purewhite.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/i/pinkpanther.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/r/e/redrubin.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/u/sunnyyellow_1.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/w/sweetchocolate_1.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/d/i/diamondblack.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/a/sanddune.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/o/r/orangejuice.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/g/r/greenapple.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/b/l/blueocean.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/m/i/midnightblue.jpg</image:loc>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/bands.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/w/sweetchocolateb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/d/i/diamondblackb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/u/sunnyyellowb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/r/e/redrubinb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/h/shadowgreyb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/a/sanddunebm.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/u/purewhiteb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/i/pinkpantherb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/o/r/orangejuiceb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/b/l/blueoceanb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/m/i/midnightblueb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/f/r/freshmintb.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/g/r/greenappleb.jpg</image:loc>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/dails.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/g/r/greenapplef.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/f/r/freshmintf.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/h/shadowgreyf.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/u/purewhitef.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/i/pinkpantherf.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/r/e/redrubinf.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/w/sweetchocolatef.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/u/sunnyyellowf.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/d/i/diamondblackf.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/a/sanddunef.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/o/r/orangejuicef.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/b/l/blueoceanf_1.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/m/i/midnightbluef.jpg</image:loc>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/fresh-mint-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/f/r/freshmint.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/shadow-grey-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/h/shadowgrey.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/pure-white-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/p/u/purewhite.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/pink-panther-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/p/i/pinkpanther.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/red-rubin-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/r/e/redrubin.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sunny-yellow-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/u/sunnyyellow_1.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sweet-chocolate-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/w/sweetchocolate_1.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/diamond-black-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/d/i/diamondblack.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sand-dune-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/a/sanddune.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/orange-juice-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/o/r/orangejuice.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/green-apple-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/g/r/greenapple.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/ocean-blue-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/b/l/blueocean.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/midnight-blue-slap-watch.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/m/i/midnightblue.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/b/l/blueocean.jpg</image:loc>
+         <image:caption>Ocean Blue SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/g/r/greenapple.jpg</image:loc>
+         <image:caption>Green Apple SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/o/r/orangejuice.jpg</image:loc>
+         <image:caption>Orange Juice SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/a/sanddune.jpg</image:loc>
+         <image:caption>Sand Dune SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/d/i/diamondblack.jpg</image:loc>
+         <image:caption>Diamond Black SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/w/sweetchocolate_1.jpg</image:loc>
+         <image:caption>Sweet Chocolate SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/u/sunnyyellow_1.jpg</image:loc>
+         <image:caption>Sunny Yellow SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/r/e/redrubin.jpg</image:loc>
+         <image:caption>Red Rubin SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/i/pinkpanther.jpg</image:loc>
+         <image:caption>Pink Panther SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/p/u/purewhite.jpg</image:loc>
+         <image:caption>Pure White SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/s/h/shadowgrey.jpg</image:loc>
+         <image:caption>Shadow Grey SLAP Watch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/56658da2935343d67d16009d7bb685db/f/r/freshmint.jpg</image:loc>
+         <image:caption>Fresh Mint SLAP Watch</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sweet-chocolate-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/w/sweetchocolateb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/diamond-black-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/d/i/diamondblackb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sunny-yellow-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/u/sunnyyellowb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/red-rubin-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/r/e/redrubinb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/shadow-grey-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/h/shadowgreyb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sand-dune-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/a/sanddunebm.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/pure-white-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/p/u/purewhiteb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/pink-panther-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/p/i/pinkpantherb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/orange-juice-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/o/r/orangejuiceb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/ocean-blue-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/b/l/blueoceanb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/midnight-blue-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/m/i/midnightblueb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/fresh-mint-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/f/r/freshmintb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/green-apple-slap-watch-band-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/g/r/greenappleb.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/green-apple-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/g/r/greenapplef.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/fresh-mint-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/f/r/freshmintf.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/shadow-grey-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/h/shadowgreyf.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/pure-white-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/p/u/purewhitef.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/pink-panther-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/p/i/pinkpantherf.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/red-rubin-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/r/e/redrubinf.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sweet-chocolate-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/w/sweetchocolatef.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sunny-yellow-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/u/sunnyyellowf.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/diamond-black-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/d/i/diamondblackf.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/sand-dune-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/s/a/sanddunef.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/orange-juice-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/o/r/orangejuicef.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/ocean-blue-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/b/l/blueoceanf_1.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.slapwatch.com/midnight-blue-slap-watch-dial-only.html</loc>
+       <lastmod>2020-03-03T21:40:43+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.slapwatch.com/pub/media/catalog/product/cache/95af954532c920912b743db9e9338bf1/m/i/midnightbluef.jpg</image:loc>
+         <image:caption>main product photo</image:caption>
+       </image:image>
+  </url>
+</urlset>

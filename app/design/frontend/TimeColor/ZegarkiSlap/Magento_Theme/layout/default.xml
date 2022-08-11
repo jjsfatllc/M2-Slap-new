@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+	    <attribute name="class" value="wide"/>
+	    <attribute name="class" value="side-header"/>
+	    <attribute name="class" value="layout-fullwidth"/>
+		<referenceBlock name="advanced-search-link" remove="true"/>
+		<referenceBlock name="product_list_toolbar" remove="true"/>
+		<referenceBlock name="store_language" remove="true"/>
+		<referenceBlock name="top.search" remove="true"/>
+        <referenceBlock name="catalog.compare.link" remove="true"/>
+        <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+        <referenceBlock name="catalogsearch.product.addto.compare" remove="true"/>
+        <referenceBlock name="category.product.addto.compare" remove="true"/>
+        <referenceBlock name="crosssell.product.addto.compare" remove="true"/>
+        <referenceBlock name="related.product.addto.compare" remove="true"/>
+        <referenceBlock name="upsell.product.addto.compare" remove="true"/>
+        <referenceBlock name="view.addto.compare" remove="true"/>
+    </body>
+</page>

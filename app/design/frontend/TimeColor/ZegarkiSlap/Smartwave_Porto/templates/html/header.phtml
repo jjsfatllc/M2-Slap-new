@@ -1,0 +1,28 @@
+<?php
+    $header_type = '10';
+    $header_new_skin = $this->getConfig('porto_settings/header/new_skin');
+    $class = 'header-new-skin';
+?>
+<header class="page-header type<?php echo $header_type; ?> <?php echo $class;?>" >
+<?php echo $this->getChildHtml("header_customer_form_login"); ?>
+    <div class="header content">
+    <?php echo $this->getChildHtml("minicart"); ?>
+    <?php echo $this->getChildHtml("logo"); ?>
+    <span data-action="toggle-nav" class="action nav-toggle"><span><?php /* @escapeNotVerified */ echo __('Toggle Nav') ?></span></span>
+    <?php if(isset($header_new_skin) && $header_new_skin):?>
+    <?php echo $this->getChildHtml("top.search"); ?>
+    <?php endif;?>
+    <?php echo $this->getChildHtml("navigation.sections"); ?>
+    <?php if(!isset($header_new_skin) || !$header_new_skin):?>
+    <?php echo $this->getChildHtml("top.search"); ?>
+    <?php endif;?>
+    </div>
+    <div class="panel wrapper">
+        <div class="panel header">
+            <?php echo $this->getChildHtml("header.links"); ?>
+        </div>
+    </div>
+    <div class="custom-block-area">
+        <?php echo $this->getChildHtml("custom_block"); ?>
+    </div>
+</header>
